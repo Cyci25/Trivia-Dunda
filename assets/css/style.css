@@ -195,6 +195,10 @@ input[type=number] {
   }
 
 }
+.faq_li li{
+  /* padding: 0px; */
+  /* margin: 0px; */
+}
 
 /*--------------------------------------------------------------
 # Navigation Menu
@@ -1325,6 +1329,10 @@ section {
   background: #fff;
   border-radius: 5px;
   position: relative;
+}
+
+.faq .faq-list .faq_li li {
+  padding: 5px;
 }
 
 .faq .faq-list a {
